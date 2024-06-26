@@ -13,7 +13,7 @@
 * Gradle
 * JMH
 ### Для запуска:
-1) git clone 
+1) git clone https://github.com/Didcvee/test22
 2) Перейдите в корень проекта
 * Выполните следующие команды в терминале:
 3) .\gradlew clean build
